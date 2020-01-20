@@ -8,6 +8,6 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Install
-        run: yarn --no-progress --non-interactive --no-lockfile
-      - name: Build
-        run: yarn build
+        run: npm ci
+      - name: Test
+        run: npm test
