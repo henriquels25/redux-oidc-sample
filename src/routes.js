@@ -4,7 +4,7 @@ import {
     Route
 } from "react-router-dom";
 import Admin from './components/admin/admin';
-import Home from './components/home/home';
+import Home from './components/home/Home';
 import SilentRenewComponent from './auth/components/silent_renew';
 import CallbackPage from './auth/components/callback';
 import PrivateRoute from './auth/components/privateRoute';
