@@ -8,6 +8,6 @@ jest.mock('react-router-dom', () => ({
     }),
   }));
 
-it('renders without crashing', () => {
+it('renders Home without crashing', () => {
   shallow(<Home />);
 });
