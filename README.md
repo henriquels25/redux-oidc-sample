@@ -1,3 +1,5 @@
+![](https://github.com/henriquels25/redux-oidc-sample/workflows/Test/badge.svg)
+
 # redux-oidc-sample
 Sample app demonstrating how to use the library redux-oidc
 
