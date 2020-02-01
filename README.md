@@ -43,3 +43,6 @@ You can use the following credentials to login in the application:
 ## Mock Authorization Server
 This project uses [oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) as a mock authorization server in order to have a working
 local profile.    
+
+## Contributing
+If you have an idea how to improve this sample project, please [open](https://github.com/henriquels25/redux-oidc-sample/issues/new) an issue or submit a PR.
