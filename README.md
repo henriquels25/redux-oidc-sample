@@ -1,4 +1,5 @@
 ![](https://github.com/henriquels25/redux-oidc-sample/workflows/Test/badge.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8d05288-f8d4-40eb-8379-812daf9cd58a/deploy-status)](https://app.netlify.com/sites/redux-oidc-sample/deploys)
 
 # redux-oidc-sample
 Sample app demonstrating how to use the library [redux-oidc](https://github.com/maxmantz/redux-oidc) using the grant type `Authorization Code with PKCE` with [react-router](https://github.com/ReactTraining/react-router).
