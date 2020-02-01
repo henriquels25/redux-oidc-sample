@@ -27,15 +27,15 @@ This project contains two execution scripts:
 
     `$ npm run okta`
 
-## Live application
+### Live application
 You can access a live version of this application integrated with the Okta authorization server in this [link](https://redux-oidc-sample.netlify.com/home).
 
-## Okta Authorization Server
+### Okta Authorization Server
 I setup a free authorization server in [Okta](https://www.okta.com/), setting up the server to just accept the authorization code flow and requests from the following clients:
     
 * http://localhost:3000/
 * https://redux-oidc-sample.netlify.com/
 
-## Mock Authorization Server
+### Mock Authorization Server
 This project uses [oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) as a mock authorization server in order to have a working
 local profile.    
