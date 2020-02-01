@@ -27,7 +27,9 @@ This project contains two execution scripts:
     `$ npm run okta`
 
 ## Live application
-You can access a live version of this application integrated with the Okta authorization server in this [link](https://redux-oidc-sample.netlify.com/home).
+You can access a live version of this application integrated with the Okta authorization server in the following URL:
+
+https://redux-oidc-sample.netlify.com/home
 
 ## Okta Authorization Server
 A free authorization server was setup in [Okta](https://www.okta.com/), configured to only accept the authorization code flow and requests from the following clients:
