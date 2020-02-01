@@ -16,7 +16,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0",
     "react-test-renderer": "^16.12.0",
-    "redux": "^4.0.4",
+    "redux": "^4.0.5",
     "redux-devtools-extension": "^2.13.8",
     "redux-oidc": "^4.0.0-beta1"
   },
@@ -45,7 +45,7 @@
     ]
   },
   "devDependencies": {
-    "concurrently": "^5.0.2",
-    "oauth2-mock-server": "^1.4.0"
+    "concurrently": "^5.1.0",
+    "oauth2-mock-server": "^1.5.0"
   }
 }
