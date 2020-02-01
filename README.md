@@ -40,6 +40,8 @@ You can use the following credentials to login in the application:
 **Username**: janedoe@mock.com <br/>
 **Password**: EC5tX7<x/n'[#'UH
 
+The access token expiration time is set to 5 minutes and the silent refresh in enabled in this application.
+
 ## Mock Authorization Server
 This project uses [oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) as a mock authorization server in order to have a working
 local profile.    
