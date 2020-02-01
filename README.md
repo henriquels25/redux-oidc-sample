@@ -11,19 +11,18 @@ Sample app demonstrating how to use the library [redux-oidc](https://github.com/
 
 * Install the dependencies
 
-    `$ cd redux-oidc-sample`
-
+    `$ cd redux-oidc-sample` <br/>
     `$ npm install`
 
 ### Execution profiles
 
 This project contains two execution scripts:
 
-* **Local**: Sets up a [mock authorization server](https://github.com/axa-group/oauth2-mock-server), changes the environment to point to it and starts the project.
+* **Local**: Sets up a [mock authorization server](#mock-authorization-server), changes the environment to point to it and starts the project. 
 
     `$ npm run local`
 
-* **Okta**: Changes the environment to point to the Okta authorization server and starts the project.
+* **Okta**: Changes the environment to point to the [Okta authorization server](#okta-authorization-server) and starts the project.
 
     `$ npm run okta`
 
@@ -37,7 +36,8 @@ A free authorization server was setup in [Okta](https://www.okta.com/), configur
 * https://redux-oidc-sample.netlify.com/
 
 You can use the following credentials to login in the application:
-**Username**: janedoe@mock.com
+
+**Username**: janedoe@mock.com <br/>
 **Password**: EC5tX7<x/n'[#'UH
 
 ## Mock Authorization Server
