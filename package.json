@@ -24,7 +24,7 @@
     "start": "react-scripts start",
     "local": "concurrently \"oauth2-mock-server -p 3001 \" \"node change_env.js local\" \"react-scripts start\"",
     "okta": "concurrently \"node change_env.js okta\" \"react-scripts start\"",
-    "build": "react-scripts build",
+    "build": "concurrently \"node change_env.js okta\" \"react-scripts build\"",
     "test": "react-scripts test",
     "test-ci": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject"
