@@ -1,7 +1,7 @@
 ![](https://github.com/henriquels25/redux-oidc-sample/workflows/Test/badge.svg)
 
 # redux-oidc-sample
-Sample app demonstrating how to use the library [redux-oidc](https://github.com/maxmantz/redux-oidc) using the grant type `Authorization Code with PKCE`.
+Sample app demonstrating how to use the library [redux-oidc](https://github.com/maxmantz/redux-oidc) using the grant type `Authorization Code with PKCE` with [react-router](https://github.com/ReactTraining/react-router).
 
 # How to run
 * Clone this repository. You will need node and npm installed globally on your machine.
