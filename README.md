@@ -22,9 +22,9 @@ This project contains two execution scripts:
 
     `$ npm run local`
 
-* **Remote**: Changes the environment to point to a remote authorization server and starts the project.
+* **Okta**: Changes the environment to point to an Okta authorization server and starts the project.
 
-    `$ npm run remoteServer`
+    `$ npm run okta`
 
 ## Mock Authorization Server
 This project uses [oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) as a mock authorization server in order to have a working
