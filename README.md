@@ -36,6 +36,10 @@ A free authorization server was setup in [Okta](https://www.okta.com/), configur
 * http://localhost:3000/
 * https://redux-oidc-sample.netlify.com/
 
+You can use the following credentials to login in the application:
+**Username**: janedoe@mock.com
+**Password**: EC5tX7<x/n'[#'UH
+
 ## Mock Authorization Server
 This project uses [oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) as a mock authorization server in order to have a working
 local profile.    
