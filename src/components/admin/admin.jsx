@@ -17,7 +17,7 @@ const Admin = (props) => {
                 Admin Dashboard
             </h2>
             <h1>
-                User: {user.profile.sub}
+                Sub: {user.profile.sub}
             </h1>
             <button onClick={onLogoutButtonClick}>Logout</button>
         </div>
